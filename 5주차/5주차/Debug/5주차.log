@@ -1,2 +1,6 @@
-﻿  5주차.cpp
+﻿  문제2.cpp
+c:\users\sam\documents\github\dgu_agolithm\5주차\5주차\문제2.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\documents\github\dgu_agolithm\5주차\5주차\문제2.cpp(13): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\documents\github\dgu_agolithm\5주차\5주차\문제2.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\documents\github\dgu_agolithm\5주차\5주차\문제2.cpp(34): warning C4018: '<': signed/unsigned mismatch
   5주차.vcxproj -> C:\Users\sam\Documents\GitHub\DGU_Agolithm\5주차\Debug\5주차.exe
